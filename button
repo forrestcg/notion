@@ -244,7 +244,7 @@
 
 <body>
 
-  <button class="btn large my-color rounded threeD" type="button" onclick="navigate()"><i class="fa-solid fa-hand-holding-heart" style="color: #dfeed8;"></i></i>Journal</button>
+  <button class="btn small my-color rounded threeD" type="button" onclick="navigate()"><i class="fa-solid fa-hand-holding-heart" style="color: #dfeed8;"></i></i>Journal</button>
   
   <script>
     function navigate() {
